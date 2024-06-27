@@ -1,1 +1,1 @@
-# galaxie-project
+# galaxie_project
